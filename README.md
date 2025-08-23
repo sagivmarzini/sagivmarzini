@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagiv</h1>
 <h3 align="center">A passionate fullstack developer from Jerusalem</h3>
 
-- 🔭 I’m currently working on **my trivia project**
+- 🔭 I’m currently working on **my compiler project**
 
 - 🌱 I’m currently learning **C++ and backend engineering**
 
