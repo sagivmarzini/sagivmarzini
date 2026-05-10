@@ -1,18 +1,62 @@
-<h1 align="center">Hi 👋, I'm Sagiv</h1>
-<h3 align="center">A passionate fullstack developer from Jerusalem</h3>
+hi, I'm Sagiv 👋
+=
 
-- 🔭 I’m currently working on **my compiler project**
+developer from Israel 🇮🇱 — I build things that are either weird, useful, or both.
 
-- 🌱 I’m currently learning **C++ and backend engineering**
+into compilers, full-stack apps, AI tools, and whatever side project I'm obsessing over this week.  
+currently: finishing high school + looking for internships / freelance work.
 
-- 👨‍💻 All of my projects are available on [https://github.com/sagivmarzini](https://github.com/sagivmarzini)
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### 🔨 what I'm working on
 
-## 📊 GitHub Stats
+- **[Pixel Compiler](https://github.com/sagivmarzini/pixel-compiler)** — a creative coding language (p5.js-inspired) that compiles to native binaries via LLVM. building in public, looking for contributors
+- **Bagruto** — AI-powered Israeli matriculation exam prep. upload a past exam, get graded like a real tutor would
+- always have a random side project going. example: [Nootes](https://github.com/sagivmarzini/Nootes), [Lughtayn](https://github.com/sagivmarzini/lughtayn-vanilla)
 
-![Sagiv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagivmarzini&show_icons=true&count_private=true&hide=prs&theme=dracula)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagivmarzini&layout=compact&theme=dracula)
+### 🗂️ projects
 
+| | project | what it is |
+|---|---|---|
+| 🔧 | **[Pixel Compiler](https://github.com/sagivmarzini/pixel-compiler)** | custom creative-coding language → native binary via LLVM + SDL3 |
+| 🎓 | **Bagruto** *(private)* | AI that grades open-ended exam answers with real tutor-quality feedback |
+| 📝 | **[Nootes](https://github.com/sagivmarzini/Nootes)** | record a class, get Cornell notes in digital handwriting |
+| 🎮 | **[Trivia Server](https://github.com/sagivmarzini/Trivia)** | multiplayer trivia game server built in C++ |
+| 🗣️ | **[Lughtayn](https://github.com/sagivmarzini/lughtayn-vanilla)** | Duolingo-style games for learning spoken Arabic |
+
+---
+
+### 🛠️ stuff I work with
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5dotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=flat-square&logoColor=white)
+
+---
+
+### 📊 stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=sagivmarzini&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sagivmarzini&layout=compact&hide_border=true&theme=default&langs_count=6" />
+</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sagivmarzini&hide_border=true&theme=default)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sagivmarzini&margin-w=6&no-bg=true&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### a bit more
+
+🎸 guitar (electric + acoustic) · 🏋️ lifting · 🗣️ learning Arabic + French
+
+📫 [marzinisagiv@gmail.com](mailto:marzinisagiv@gmail.com) · [linkedin](https://www.linkedin.com/in/sagivmarzini/)
